@@ -5,11 +5,11 @@ This repository holds my programming projects done during the period of stanCode
 Watch my *[DEMO VIDEOS](https://drive.google.com/drive/folders/11PJaeVa-l86ETtOUtPxhr3D-tnkx4YGg?usp=sharing)
 
 # Project Source Codes:
-[Breakout Game](https://github.com/lily71903/sc-project/blob/main/stanCode_SC101_projects/break_out_game/breakout.py) 
+[Breakout Game](https://github.com/lily71903/stanCode_SC101_projects/blob/main/stanCode_SC101_projects/break_out_game/breakout.py) 
 * animation & game designing 
 
-[Name Popularity Searching System](https://github.com/lily71903/sc-project/blob/main/stanCode_SC101_projects/name_searching_system/babygraphics.py)
+[Name Popularity Searching System](https://github.com/lily71903/stanCode_SC101_projects/blob/main/stanCode_SC101_projects/name_searching_system/babygraphics.py)
 * data structure 
 
-[Boggle Game Solver](https://github.com/lily71903/sc-project/blob/main/stanCode_SC101_projects/boggle_game_solver/boggle.py)
+[Boggle Game Solver](https://github.com/lily71903/stanCode_SC101_projects/blob/main/stanCode_SC101_projects/boggle_game_solver/boggle.py)
 * recursive functions
